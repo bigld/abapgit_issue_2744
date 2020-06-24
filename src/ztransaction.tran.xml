@@ -4,20 +4,21 @@
   <asx:values>
    <TSTC>
     <TCODE>ZTRANSACTION</TCODE>
-    <CINFO>Ag==</CINFO>
+    <PGMNA>ZTRANSACTION</PGMNA>
+    <DYPNO>1000</DYPNO>
+    <CINFO>gA==</CINFO>
    </TSTC>
    <TSTCC>
     <TCODE>ZTRANSACTION</TCODE>
+    <S_WEBGUI>1</S_WEBGUI>
+    <S_WIN32>X</S_WIN32>
+    <S_PLATIN>X</S_PLATIN>
    </TSTCC>
    <TSTCT>
     <SPRSL>E</SPRSL>
     <TCODE>ZTRANSACTION</TCODE>
-    <TTEXT>test transaction</TTEXT>
+    <TTEXT>report transaction</TTEXT>
    </TSTCT>
-   <TSTCP>
-    <TCODE>ZTRANSACTION</TCODE>
-    <PARAM>/N2</PARAM>
-   </TSTCP>
   </asx:values>
  </asx:abap>
 </abapGit>
