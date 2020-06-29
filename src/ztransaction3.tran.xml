@@ -8,9 +8,6 @@
    </TSTC>
    <TSTCC>
     <TCODE>ZTRANSACTION3</TCODE>
-    <S_WEBGUI>1</S_WEBGUI>
-    <S_WIN32>X</S_WIN32>
-    <S_PLATIN>X</S_PLATIN>
    </TSTCC>
    <TSTCT>
     <SPRSL>E</SPRSL>
@@ -19,7 +16,7 @@
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION3</TCODE>
-    <PARAM>/*ZTRANSACTION P_SPRSL=ES;</PARAM>
+    <PARAM>/*ZTRANSACTION P_SPRSL=ES;S_ARBGB-HIGH=Hi;S_ARBGB-LOW=Low;</PARAM>
    </TSTCP>
   </asx:values>
  </asx:abap>
