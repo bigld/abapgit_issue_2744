@@ -15,7 +15,7 @@
    <TSTCT>
     <SPRSL>E</SPRSL>
     <TCODE>ZTRANSACTION_VARIANT</TCODE>
-    <TTEXT>variant transaction</TTEXT>
+    <TTEXT>variant transaction change</TTEXT>
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION_VARIANT</TCODE>
