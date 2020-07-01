@@ -17,7 +17,7 @@
    <TSTCT>
     <SPRSL>E</SPRSL>
     <TCODE>ZTRANSACTION_REPORT</TCODE>
-    <TTEXT>report transaction</TTEXT>
+    <TTEXT>report transaction change</TTEXT>
    </TSTCT>
   </asx:values>
  </asx:abap>
