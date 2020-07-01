@@ -15,7 +15,7 @@
    <TSTCT>
     <SPRSL>E</SPRSL>
     <TCODE>ZTRANSACTION_PARAM</TCODE>
-    <TTEXT>parameter transaction</TTEXT>
+    <TTEXT>parameter transaction change</TTEXT>
    </TSTCT>
    <TSTCP>
     <TCODE>ZTRANSACTION_PARAM</TCODE>
